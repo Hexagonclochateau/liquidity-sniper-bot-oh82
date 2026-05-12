@@ -1,4 +1,4 @@
-# 
+# new Liquidity Bot for liquidity sniper bot | trailing-stop & bundle-transactions offers the most advanced liquidity sniper bot, with trailing-stop and bundle-transactions. Ideal
 
 
 
